@@ -1,0 +1,4 @@
+name: idkyetrpg
+version: '1.0-SNAPSHOT'
+main: rpg.mc.idkyetrpg.Idkyetrpg
+api-version: '1.21'
